@@ -1,3 +1,1 @@
-# PJD Notes
-
-
+# JD Notes
